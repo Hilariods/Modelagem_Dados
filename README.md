@@ -1,4 +1,4 @@
-# Modelagem de Dados - Proj_Extensão Adm_DB (SQLServer/MySql)
+# Modelagem de Dados - Proj_Extensão Admin_DB
 
 ```markdown
 # Modelagem de Dados - Projeto de Extensão em Administração de Banco de Dados (SqlServer/MySql)
