@@ -1,5 +1,5 @@
-# Modelagem_Dados
-Projeto de Extensão em Administração de Banco de Dados (SqlServer/MySql)
+# Modelagem de Dados - Projeto de Extensão em Administração de Banco de Dados (SqlServer/MySql)
+
 Projeto 1: Banco de Dados de Análise de Redes Sociais
 
 # Introdução
