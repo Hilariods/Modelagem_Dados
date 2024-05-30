@@ -1,36 +1,33 @@
-1. Banco de Dados de Análise de Redes Sociais
+ Modelagem de Dados - Proj_Extensão Admin_DB
 
-2. # Banco de Dados de Análise de Redes Sociais
+```markdown
+# Modelagem de Dados - Projeto de Extensão em Administração de Banco de Dados (SqlServer/MySql)
 
 ## Introdução
-O projeto de Banco de Dados de Análise de Redes Sociais é desenvolvido para armazenar e analisar dados de interações em plataformas de mídia social. O objetivo é identificar tendências, influenciadores e padrões de engajamento, facilitando a tomada de decisões estratégicas de marketing e comunicação.
 
-## Instruções de Instalação e Uso
+Este repositório contém uma coleção de projetos de modelagem de dados voltados para a análise de grandes volumes de dados (Big Data) e mineração de dados (Data Mining). Cada projeto é desenvolvido para abordar diferentes áreas de negócios, como análise de redes sociais, dados climáticos, finanças empresariais, saúde pública e comércio eletrônico.
 
-### Pré-requisitos:
-- MySQL ou PostgreSQL instalado.
-- Ferramenta de gerenciamento de banco de dados (ex: pgAdmin, MySQL Workbench).
+## Projetos
 
-### Instalação:
-1. Clone o repositório do projeto:
-   ```sh
-   git clone <https://github.com/SEU_USUARIO/social_network_analysis.git>
+ 1. [Banco de Dados de Análise de Redes Sociais](docs/social_network_analysis.md)
+Desenvolvido para armazenar e analisar dados de interações em plataformas de mídia social. O objetivo é identificar tendências, influenciadores e padrões de engajamento, facilitando a tomada de decisões estratégicas de marketing e comunicação.
 
-Importe o arquivo SQL fornecido (social_network_analysis.sql) para criar as tabelas e inserir dados de exemplo.
-Configure as credenciais de acesso no arquivo de configuração (config.json).
-Uso:
-Execute consultas SQL para analisar as interações sociais.
-Utilize as funções reservadas para calcular métricas de engajamento.
-Gere relatórios de tendências e influenciadores usando scripts fornecidos.
-Principais Funcionalidades
-Modelagem de Dados: Estrutura eficiente para armazenar usuários, mensagens e interações.
-Consultas Analíticas: Conjuntos de consultas SQL para análise de engajamento e identificação de influenciadores.
-Relatórios Personalizados: Scripts para gerar relatórios de tendências e padrões de uso.
-Outras Informações
-Colaboração: Encorajamos a contribuição para melhorar as funcionalidades e adicionar novas análises.
-Documentação: Uma documentação detalhada está disponível no repositório, incluindo diagramas ER e diretrizes de tabelas.
-Licença
-Este projeto é licenciado sob a [Nome da Licença] - veja o arquivo LICENSE para mais detalhes.
+ 2. [Banco de Dados de Análise de Dados Climáticos](docs/climate_analysis.md)
+Projetado para armazenar e analisar dados meteorológicos de diversas regiões. O objetivo é estudar padrões climáticos, prever extremos e fornecer dados para planejamento agrícola e prevenção de desastres.
 
+ 3. [Banco de Dados de Análise de Finanças Empresariais](docs/financial_analysis.md)
+Desenvolvido para armazenar e analisar dados financeiros de empresas, permitindo que os analistas acompanhem o desempenho financeiro, identifiquem oportunidades de investimento e gerenciem riscos.
 
----
+ 4. [Banco de Dados de Análise de Saúde Pública](docs/public_health_analysis.md)
+Projetado para armazenar e analisar dados de saúde populacional, facilitando a pesquisa e a tomada de decisões em políticas públicas de saúde.
+
+ 5. [Banco de Dados de Análise de Comércio Eletrônico](docs/ecommerce_analysis.md)
+Desenvolvido para armazenar e analisar dados de vendas online, permitindo que analistas compreendam o comportamento do mercado, identifiquem tendências de mercado e otimizem estratégias de marketing.
+
+## Colaboração
+
+Encorajamos a contribuição para melhorar as funcionalidades e adicionar novas análises. Por favor, consulte a documentação detalhada em cada um dos projetos para mais informações sobre como contribuir.
+
+## Licença
+
+Este projeto é licenciado sob a [Nome da Licença] - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
