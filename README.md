@@ -1,18 +1,20 @@
-# Modelagem de Dados - Proj_Extensão Admin_DB
+# Proj_Extensão Admin_DB
 
 ```markdown
-# Modelagem de Dados - Projeto de Extensão em Administração de Banco de Dados (SqlServer/MySql)
+# Projeto de Extensão em Administração de Banco de Dados (SqlServer/MySql)
 
 ## Introdução
 
-Este repositório contém uma coleção de projetos de modelagem de dados voltados para a análise de grandes volumes de dados (Big Data) e mineração de dados (Data Mining).
+Este repositório contém uma coleção de projetos é voltado para a análise de grandes volumes de dados (Big Data) e mineração de dados (Data Mining).
 Cada projeto é desenvolvido para abordar diferentes áreas de negócios, como análise de redes sociais, dados climáticos, finanças empresariais, saúde pública e comércio eletrônico.
+
+## Cada um dos projetos teve suas tabela populadas para melhor entendimento de cada negócio.
 
 ## Projetos
 
  1. [Banco de Dados de Análise de Redes Sociais](docs/social_network_analysis.md)
 Desenvolvido para armazenar e analisar dados de interações em plataformas de mídia social. O objetivo é identificar tendências,
-influenciadores e padrões de engajamento, facilitando a tomada de decisões estratégicas de marketing e comunicação.
+influenciadores e padrões de engajamento, facilitando a tomada de decisões estratégicas de marketing e comunicação
 
  2. [Banco de Dados de Análise de Dados Climáticos](docs/climate_analysis.md)
 Projetado para armazenar e analisar dados meteorológicos de diversas regiões. O objetivo é estudar padrões climáticos,
@@ -33,10 +35,6 @@ identifiquem tendências de mercado e otimizem estratégias de marketing.
 
 Encorajamos a contribuição para melhorar as funcionalidades e adicionar novas análises. Por favor,
 consulte a documentação detalhada em cada um dos projetos para mais informações sobre como contribuir.
-
-## Licença
-
-Este projeto é licenciado sob a [Nome da Licença] - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ```
 
